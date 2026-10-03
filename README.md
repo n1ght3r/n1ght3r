@@ -16,7 +16,7 @@
 ## Projects
 
 <a href="https://modrinth.com/user/Nightter"><img src="https://modfolio.creeperkatze.dev/modrinth/user/Nightter?maxProjects=5&showSparklines=false&showDownloadBars=false&showBorder=false&animations=false" alt="Modrinth" width="49%"/></a>
-<a href="https://www.curseforge.com/members/nightter/projects"><img src="https://modfolio.creeperkatze.dev/curseforge/user/144444115?maxProjects=5&showSparklines=false&showDownloadBars=false&showBorder=false&animations=false" alt="CurseForge" width="49%"/></a>
+<!-- <a href="https://www.curseforge.com/members/nightter/projects"><img src="https://modfolio.creeperkatze.dev/curseforge/user/144444115?maxProjects=5&showSparklines=false&showDownloadBars=false&showBorder=false&animations=false" alt="CurseForge" width="49%"/></a> -->
 
 <br>
 
